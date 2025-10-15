@@ -2,14 +2,9 @@
  {
     "username": "member1",
     "password": "memberpass",
-    "role": "member"
   },
   {
     "username": "Ezra13",
     "password": "Ezrapass",
-    "role": "vip",
-    "expiry": "permanent",
-    "createdBy": "EzraOfficial",
-    "createdAt": 1757763426194
   }
 ]
