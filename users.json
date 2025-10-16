@@ -1,10 +1,18 @@
-"users" : [
- {
-    "username": "member1",
-    "password": "memberpass",
+[
+  {
+    "username": "Ezra13",
+    "password": "EzraPass",
+    "role": "owner",
+    "expiry": "permanent",
+    "createdBy": "system",
+    "createdAt": 1678886400000
   },
   {
-    "username": "ezra13",
-    "password": "ezrapass",
+    "username": "member1",
+    "password": "user123",
+    "role": "member",
+    "expiry": 1710000000000,
+    "createdBy": "admin",
+    "createdAt": 1678886500000
   }
 ]
