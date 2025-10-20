@@ -14,12 +14,5 @@
     "expiry": 1710000000000,
     "createdBy": "admin",
     "createdAt": 1678886500000
-  },
-  {
-    "username": "tes",
-    "password": "tes1",
-    "expiry": 1761955200000,
-    "createdBy": "owner",
-    "createdAt": 1760966272012
   }
 ]
