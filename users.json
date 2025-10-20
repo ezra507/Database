@@ -6,13 +6,5 @@
     "expiry": "permanent",
     "createdBy": "system",
     "createdAt": 1678886400000
-  },
-  {
-    "username": "member1",
-    "password": "user123",
-    "role": "member",
-    "expiry": 1710000000000,
-    "createdBy": "admin",
-    "createdAt": 1678886500000
   }
 ]
