@@ -13,5 +13,12 @@
     "expiry": 1764547200000,
     "createdBy": "owner",
     "createdAt": 1761057517712
+  },
+  {
+    "username": "buyer",
+    "password": "buyer1",
+    "expiry": "permanent",
+    "createdBy": "owner",
+    "createdAt": 1761057931050
   }
 ]
