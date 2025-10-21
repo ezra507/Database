@@ -6,12 +6,5 @@
     "expiry": "permanent",
     "createdBy": "system",
     "createdAt": 1678886400000
-  },
-  {
-    "username": "ezra",
-    "password": "ezra",
-    "expiry": 1762732800000,
-    "createdBy": "owner",
-    "createdAt": 1761057205589
   }
 ]
