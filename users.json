@@ -6,12 +6,5 @@
     "expiry": "permanent",
     "createdBy": "system",
     "createdAt": 1678886400000
-  },
-  {
-    "username": "admin",
-    "password": "123",
-    "expiry": 1767225600000,
-    "createdBy": "owner",
-    "createdAt": 1760975453797
   }
 ]
