@@ -1,16 +1,9 @@
-{
-  "admins": [
-    {
-      "username": "jembod1",
-      "password": "1",
-      "createdAt": "2025-10-21T11:29:14.322Z",
-      "expireTime": 1440
-    },
-    {
-      "username": "vip",
-      "password": "vip11",
-      "createdAt": "2025-10-21T12:49:45.364Z",
-      "expireTime": "permanent"
-    }
-  ]
-}
+[
+  {
+    "username": "ezra",
+    "password": "ezra",
+    "expiry": "permanent",
+    "createdBy": "EzraOfficiall",
+    "createdAt": "2025-10-23T12:26:28.305Z"
+  }
+]
