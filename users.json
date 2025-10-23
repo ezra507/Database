@@ -20,5 +20,12 @@
     "expiry": "permanent",
     "createdBy": "EzraOfficiall",
     "createdAt": 1761223164807
+  },
+  {
+    "username": "pay",
+    "password": "11",
+    "expiry": 1765497600000,
+    "createdBy": "LoxxyAtr",
+    "createdAt": 1761227567902
   }
 ]
