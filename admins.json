@@ -1,14 +1,9 @@
-"admins" : {
-    "username": "report",
-    "password": "33",
-    "expiry": "permanent",
-    "createdBy": "EzraOfficiall",
-    "createdAt": "2025-10-24T09:15:36.979Z"
-  },
+[
   {
-    "username": "peler",
-    "password": "55",
-    "expiry": "permanent",
+    "username": "anjing",
+    "password": "peler",
+    "expiry": 1765497600000,
     "createdBy": "EzraOfficiall",
-    "createdAt": "2025-10-24T09:26:21.201Z"
+    "createdAt": "2025-10-24T09:40:03.327Z"
   }
+]
