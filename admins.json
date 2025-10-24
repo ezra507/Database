@@ -1,9 +1,9 @@
-{
- "admins" : {
-    "username": "vvk",
-    "password": "111",
+[
+  {
+    "username": "report",
+    "password": "33",
     "expiry": "permanent",
     "createdBy": "EzraOfficiall",
-    "createdAt": "2025-10-24T05:32:22.832Z"
+    "createdAt": "2025-10-24T09:15:36.979Z"
   }
-}
+]
