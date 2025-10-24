@@ -1,9 +1,9 @@
-{
-  "admins": {
-    "username": "tes",
-    "password": "tes",
-    "expiry": 1764547200000,
+[
+  {
+    "username": "vvk",
+    "password": "111",
+    "expiry": "permanent",
     "createdBy": "EzraOfficiall",
-    "createdAt": "2025-10-23T12:27:25.868Z"
+    "createdAt": "2025-10-24T05:32:22.832Z"
   }
-}
+]
