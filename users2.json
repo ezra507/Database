@@ -1,5 +1,5 @@
 [
-  {
+  "users" :{
     "username": "test",
     "password": "1234",
     "expiry": "permanent",
