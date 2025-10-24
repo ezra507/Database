@@ -1,9 +1,9 @@
-{
-  "admins":{
-    "username": "peler",
-    "password": "anjing",
-    "expiry": 1766188800000,
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "expiry": 1924128000000,
     "createdBy": "EzraOfficiall",
-    "createdAt": "2025-10-24T09:47:29.575Z"
+    "createdAt": 1761316758600
   }
-}
+]
