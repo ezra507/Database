@@ -1,5 +1,9 @@
-{
-  "users":{
-    
+[
+  {
+    "username": "ezra",
+    "password": "123",
+    "expiry": "permanent",
+    "createdBy": "EzraOfficiall",
+    "createdAt": 1761317064758
   }
-}
+]
