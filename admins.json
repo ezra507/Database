@@ -1,5 +1,5 @@
-[ 
-  "admins": {
+[
+  "admins" : {
     "username": "report",
     "password": "33",
     "expiry": "permanent",
