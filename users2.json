@@ -1,9 +1,9 @@
-"users" :[
-  {
+{
+ "users" : {
     "username": "test",
     "password": "1234",
     "expiry": "permanent",
     "createdBy": "EzraOfficiall",
     "createdAt": "2025-10-24T05:10:06.222Z"
   }
-]
+}
