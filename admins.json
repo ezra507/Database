@@ -1,5 +1,5 @@
 {
-  "admins" {
+  "admin" {
     "username": "tes",
     "password": "tes",
     "expiry": 1764547200000,
