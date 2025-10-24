@@ -1,9 +1,9 @@
-[
-  {
+{
+  "admins":{
     "username": "peler",
     "password": "anjing",
     "expiry": 1766188800000,
     "createdBy": "EzraOfficiall",
     "createdAt": "2025-10-24T09:47:29.575Z"
   }
-]
+}
