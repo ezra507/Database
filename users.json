@@ -27,5 +27,12 @@
     "expiry": "permanent",
     "createdBy": "EzraOfficiall",
     "createdAt": 1761317197290
+  },
+  {
+    "username": "dilz13",
+    "password": "ez cung",
+    "expiry": "permanent",
+    "createdBy": "system",
+    "createdAt": 1761407499114
   }
 ]
