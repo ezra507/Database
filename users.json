@@ -48,5 +48,12 @@
     "expiry": 1893456000000,
     "createdBy": "EzraOfficiall",
     "createdAt": 1761461987243
+  },
+  {
+    "username": "ebix",
+    "password": "ebixpass",
+    "expiry": "permanent",
+    "createdBy": "LKMKESERUAN",
+    "createdAt": 1761481668264
   }
 ]
