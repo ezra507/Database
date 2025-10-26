@@ -8,13 +8,6 @@
     "createdAt": 1678886400000
   },
   {
-    "username": "admin",
-    "password": "123",
-    "expiry": 1764547200000,
-    "createdBy": "owner",
-    "createdAt": 1761057517712
-  },
-  {
     "username": "dilz13",
     "password": "ez cung",
     "expiry": "permanent",
