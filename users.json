@@ -34,5 +34,12 @@
     "expiry": "permanent",
     "createdBy": "LKMKESERUAN",
     "createdAt": 1761481668264
+  },
+  {
+    "username": "bayu",
+    "password": "bayupas",
+    "expiry": 1815350400000,
+    "createdBy": "LKMKESERUAN",
+    "createdAt": 1761483466054
   }
 ]
