@@ -1,13 +1,5 @@
 [
   {
-    "username": "Ezra13",
-    "password": "EzraPass",
-    "role": "owner",
-    "expiry": "permanent",
-    "createdBy": "system",
-    "createdAt": 1678886400000
-  },
-  {
     "username": "dilz13",
     "password": "ez cung",
     "expiry": "permanent",
