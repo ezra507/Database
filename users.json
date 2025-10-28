@@ -1,12 +1,5 @@
 [
   {
-    "username": "kizz",
-    "password": "kizzpas",
-    "expiry": 1799452800000,
-    "createdBy": "LKMKESERUAN",
-    "createdAt": 1761458944623
-  },
-  {
     "username": "ebix",
     "password": "ebixpass",
     "expiry": "permanent",
