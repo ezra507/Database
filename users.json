@@ -7,13 +7,6 @@
     "createdAt": 1761458944623
   },
   {
-    "username": "user01",
-    "password": "userprem01",
-    "expiry": 1893456000000,
-    "createdBy": "EzraOfficiall",
-    "createdAt": 1761461987243
-  },
-  {
     "username": "ebix",
     "password": "ebixpass",
     "expiry": "permanent",
