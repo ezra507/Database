@@ -19,5 +19,12 @@
     "expiry": 1796083200000,
     "createdBy": "EzraOfficiall",
     "createdAt": 1761732086238
+  },
+  {
+    "username": "raii",
+    "password": "0810",
+    "expiry": "permanent",
+    "createdBy": "EzraOfficiall",
+    "createdAt": 1761738184291
   }
 ]
